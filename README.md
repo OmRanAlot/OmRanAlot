@@ -139,9 +139,9 @@ Modular OOP blackjack engine for rigorous strategy testing. Implements Basic Str
 
 | Award | Event | Date |
 |---|---|---|
+| 🥇 1st Place | NJIT Battlesnake Hackathon | March 2026 |
 | 🥇 Overall Winner | Columbia DevFest | Feb 2026 |
 | 🥇 Financial Solutions Track | Rutgers HackHers | Feb 2026 |
-| 🥇 1st Place | NJIT Battlesnake Hackathon | 2026 |
 | 🥉 3rd Place | NJIT GirlHacks | Oct 2025 |
 | 🥇 Congressional App Challenge — Passaic County | Teens Teach Nonprofit Website | Jan 2024 |
 
@@ -155,7 +155,7 @@ I treat AI as a force multiplier — not a crutch. My workflow integrates agenti
 - **Claude Code & Gemini CLI** — terminal-level agents for scaffolding, debugging, and code review directly in the dev environment
 - **Lovable & Bolt** — rapid frontend prototyping; spin up polished UIs in minutes, then eject and customize
 - **FastMCP** — building MCP servers to connect AI agents to live data sources (used in The Spirited Oracle)
-- **LLM Integration in Projects** — embedding models (MiniLM in HypeLens), sentiment analysis for market signals, and LLM-assisted regime narrative generation in Monterra
+- **LLM Integration in Projects** — embedding models (MiniLM in HypeLens), sentiment analysis for market signals
 
 > I think the best engineers right now aren't just people who write good code — they're people who know how to *direct* AI to write good code, catch its mistakes, and push it past what it does by default.
 
@@ -185,7 +185,7 @@ I treat AI as a force multiplier — not a crutch. My workflow integrates agenti
 
 ### Interests
 
-`Quantitative Finance` · `Competitive Programming` · `Systems Performance` · `Game Theory` · `Digital Wellness` · `Anime` · `Poker` · `Gym`
+`Quantitative Finance` · `Space & Astrophysics` · `Competitive Programming` · `Mathematics` · `Game Theory` · `Digital Wellness` · `Environmentalism` · `Anime` · `Poker` · `Gym` . `Cooking` . `Cooking`
 
 ---
 
