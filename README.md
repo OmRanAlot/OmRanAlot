@@ -15,13 +15,9 @@
 
 I build at the intersection of **math, systems, and real-world impact** — from low-latency C++ simulation engines to full-stack market intelligence platforms to Android wellness tools. First-year CS & Math student at NJIT Honors College on a full-tuition scholarship, maintaining a 4.0 GPA.
 
-- 🏆 **1st Place** — Columbia DevFest (Feb 2026)
-- 🏆 **1st Place Financial Solutions Track** — Rutgers HackHers (Feb 2026)
-- 🏆 **1st Place** — NJIT 2026 Battlesnake Hackathon *(C++ alpha-beta minimax, 7-2 record)*
-- 🏆 **1st Place** — Congressional App Challenge, Passaic County District (2024)
-- 🔭 Building **Breqk** — Android doomscroll intervention via AccessibilityService
-- 📈 Building **Monterra/Drift** — multi-regime stock predictor with C++ Monte Carlo engine
-- 🎯 Exploring quant research, ICPC, and Putnam prep
+- 🏆 Hackathon Fanatic (5x Winner)
+- 🔭 Building **Breqk** — Doomscroll intervention App
+- 🎯 Exploring research, quant finance, ICPC, and building apps
 
 ---
 
@@ -54,6 +50,15 @@ I build at the intersection of **math, systems, and real-world impact** — from
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**AI & Agentic Tools**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=flat&logo=github&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat&logoColor=white)
+![Bolt](https://img.shields.io/badge/Bolt-7C3AED?style=flat&logoColor=white)
 
 ---
 
@@ -95,7 +100,7 @@ Full-stack real estate app aggregating and visualizing apartment data. Selenium 
 </td>
 <td width="50%" valign="top">
 
-#### 📱 [Breqk / DoomScroll Stopper](https://github.com/OmRanAlot/DoomScrollStopper)
+#### 📱 [Breqk](https://github.com/OmRanAlot/DoomScrollStopper)
 **Android · React Native · Java · AccessibilityService**
 
 Intervention app detecting Instagram Reels/Shorts usage via Android's AccessibilityService with overlay popups to interrupt compulsive scrolling. Permission gating, session tracking, and focus mode profiles.
@@ -142,6 +147,20 @@ Modular OOP blackjack engine for rigorous strategy testing. Implements Basic Str
 
 ---
 
+### How I Use AI
+
+I treat AI as a force multiplier — not a crutch. My workflow integrates agentic tools at every layer of the stack, and I've shipped production projects solo that would otherwise require a full team.
+
+- **Cursor & Windsurf** — AI-native IDEs for rapid iteration; multi-file edits, inline refactors, and context-aware completions keep me in flow state
+- **Claude Code & Gemini CLI** — terminal-level agents for scaffolding, debugging, and code review directly in the dev environment
+- **Lovable & Bolt** — rapid frontend prototyping; spin up polished UIs in minutes, then eject and customize
+- **FastMCP** — building MCP servers to connect AI agents to live data sources (used in The Spirited Oracle)
+- **LLM Integration in Projects** — embedding models (MiniLM in HypeLens), sentiment analysis for market signals, and LLM-assisted regime narrative generation in Monterra
+
+> I think the best engineers right now aren't just people who write good code — they're people who know how to *direct* AI to write good code, catch its mistakes, and push it past what it does by default.
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -156,11 +175,11 @@ Modular OOP blackjack engine for rigorous strategy testing. Implements Basic Str
 
 ### Currently
 
+- 💼 **Open to Opportunities** — Actively seeking Summer 2026 internships in SWE, quant, or ML/AI
 - 🔧 **Breqk** — Debugging AccessibilityService overlay & Instagram home redirect logic
-- 📊 **Monterra** — Integrating LLM sentiment for jump parameters in regime model
 - 🔬 **Research** — Exploring undergraduate research opportunities at NJIT
 - 🧮 **Academics** — Putnam & ICPC prep; Discrete Math, Multivariable Calc, Prob/Stats
-- 🏛️ **Campus** — Founding a game theory & decision-making club at NJIT
+- 🏛️ **Campus** — Tech Lead at Google Developer Groups chapter at NJIT
 
 ---
 
