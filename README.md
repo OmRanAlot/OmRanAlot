@@ -82,7 +82,9 @@ Intervention app detecting Instagram Reels/Shorts usage via Android's Accessibil
 **Python · C++ · React · FastAPI · Supabase**
 
 Probabilistic stock scenario generator running 10,000 Monte Carlo simulations via a pybind11-bound C++ engine with regime-switching GBM, GARCH(1,1) volatility, Student-t fat tails, and Merton jump-diffusion. Rule-based 4-regime classifier, Supabase caching pipeline, and interactive fan chart dashboard.
+
 `Quant Finance` `Monte Carlo` `pybind11` `Time Series`
+
 </td>
 </tr>
 <tr>
