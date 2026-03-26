@@ -68,23 +68,21 @@ I build at the intersection of **math, systems, and real-world impact** — from
 <tr>
 <td width="50%" valign="top">
 
-#### 🏠 [The Spirited Oracle](https://github.com/OmRanAlot)
-**React · FastAPI · Supabase · Selenium · PostGIS · FastMCP**
+#### 📱 [Breqk](https://github.com/OmRanAlot/DoomScrollStopper)
+**Android · React Native · Java · AccessibilityService**
 
-Full-stack real estate app aggregating and visualizing apartment data. Selenium pipeline maps addresses to commute matrices (OSRM) and geographic bounds (Overpass API) to compute true monthly living costs. PostgreSQL/PostGIS backend with automated CSV fallback for zero downtime during API rate limits.
+Intervention app detecting Instagram Reels/Shorts usage via Android's AccessibilityService with overlay popups to interrupt compulsive scrolling. Permission gating, session tracking, and focus mode profiles.
 
-`Real Estate` `Geospatial` `Data Pipeline` `Glassmorphism UI`
+`Android` `AccessibilityService` `Digital Wellness`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔍 [HypeLens — Polymarket Intelligence](https://github.com/OmRanAlot)
-**Python · NLP · scikit-learn · FastAPI · MongoDB**
+#### 🔍 [Drift — Monte Carlo Simulations](https://github.com/OmRanAlot/DriftEngine)
+**Python · C++ · React · FastAPI · Supabase**
 
-396-dimensional market feature vector combining sentence embeddings (MiniLM), sentiment scores, one-hot topic encodings, and normalized trading features across 1,500+ prediction markets. Cosine similarity graph surfaces hidden clusters. Reddit-driven hype scoring (0–100) and OHLC-based LONG/SHORT/FAIR signals.
-
-`NLP` `Embeddings` `Cosine Similarity` `Prediction Markets`
-
+Probabilistic stock scenario generator running 10,000 Monte Carlo simulations via a pybind11-bound C++ engine with regime-switching GBM, GARCH(1,1) volatility, Student-t fat tails, and Merton jump-diffusion. Rule-based 4-regime classifier, Supabase caching pipeline, and interactive fan chart dashboard.
+`Quant Finance` `Monte Carlo` `pybind11` `Time Series`
 </td>
 </tr>
 <tr>
@@ -100,12 +98,12 @@ Full-stack real estate app aggregating and visualizing apartment data. Selenium 
 </td>
 <td width="50%" valign="top">
 
-#### 📱 [Breqk](https://github.com/OmRanAlot/DoomScrollStopper)
-**Android · React Native · Java · AccessibilityService**
+#### 🔍 [HypeLens — Polymarket Intelligence](https://github.com/OmRanAlot)
+**Python · NLP · scikit-learn · FastAPI · MongoDB**
 
-Intervention app detecting Instagram Reels/Shorts usage via Android's AccessibilityService with overlay popups to interrupt compulsive scrolling. Permission gating, session tracking, and focus mode profiles.
+396-dimensional market feature vector combining sentence embeddings (MiniLM), sentiment scores, one-hot topic encodings, and normalized trading features across 1,500+ prediction markets. Cosine similarity graph surfaces hidden clusters. Reddit-driven hype scoring (0–100) and OHLC-based LONG/SHORT/FAIR signals.
 
-`Android` `AccessibilityService` `Digital Wellness`
+`NLP` `Embeddings` `Cosine Similarity` `Prediction Markets`
 
 </td>
 </tr>
