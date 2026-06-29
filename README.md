@@ -16,7 +16,7 @@
 I build at the intersection of **math, systems, and real-world impact** — from low-latency C++ simulation engines to full-stack market intelligence platforms to Android wellness tools. First-year CS & Math student at NJIT Honors College on a full-tuition scholarship, maintaining a 4.0 GPA.
 
 - 🏆 Hackathon Fanatic (5x Winner)
-- 🔭 Building **Breqk** — Doomscroll intervention App
+- 🔭 Building **Break** — Doomscroll intervention App
 - 🎯 Exploring research, quant finance, ICPC, and building apps
 
 ---
